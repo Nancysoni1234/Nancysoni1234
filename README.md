@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Nancy_soni77?ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Nancy_soni77?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/Nancy_soni77)
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-Nancy__soni77-orange?style=for-the-badge&logo=leetcode)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue?logo=leetcode)](https://leetcode.com/Nancy_soni77)

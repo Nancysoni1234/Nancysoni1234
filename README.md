@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Nancy_soni77?ext=heatmap)
 
-![LeetCode 50 Days Badge](https://raw.githubusercontent.com/Nancysoni1234/Nancysoni1234/main/50daysbadge.png)
+[![LeetCode Medal](https://leetcode.com/medal/?showImg=0&id=8120845&isLevel=false)](https://leetcode.com/your-username)
 
 
 ![LeetCode Badge](https://img.shields.io/badge/LeetCode-Nancy__soni77-orange?style=for-the-badge&logo=leetcode)

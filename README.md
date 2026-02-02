@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<div align="center">
+  
+  ![snake gif](https://github.com/Nancysoni1234/Nancysoni1234/blob/output/github-snake-dark.svg)</div>
 <!--
 **Nancysoni1234/Nancysoni1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
